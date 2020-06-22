@@ -5,28 +5,28 @@
 }
 .section-1{
   height: 100vh;
-  background-image: url(/imgs/newtakeoff.jpeg);
+  background-image: url(./imgs/nightLaunch.jpg);
   background-attachment: fixed;
   background-size: cover;
 background-position: top;
 }
 .section-2{
   height: 100vh;
-  background-image: url(/imgs/overviewnight.jpg);
+  background-image: url(./imgs/overviewnight.jpg);
   background-attachment: fixed;
   background-size: cover;
 background-position: center;
 }
 .section-3{
   height: 100vh;
-  background-image: url(/imgs/astronots.jpg);
+  background-image: url(./imgs/astronots.jpg);
   background-attachment: fixed;
   background-size: cover;
 background-position: center;
 }
 .section-4{
   height: 100vh;
-  background-image: url(/imgs/dragon.jpg);
+  background-image: url(./imgs/dragon.jpg);
   background-attachment: fixed;
   background-size: cover;
 background-position: center;
