@@ -11,18 +11,24 @@
 background-position: top;
 }
 .section-2{
-  height: 100vh;
-  background-image: url(./imgs/overviewnight.jpg);
-  background-attachment: fixed;
-  background-size: cover;
+
+height: 100vh;
+background-image: url(./imgs/astronots.jpg);
+background-attachment: fixed;
+background-size: cover;
 background-position: center;
 }
 .section-3{
   height: 100vh;
-  background-image: url(./imgs/astronots.jpg);
+  background-image: url(./imgs/black2.jpg);
   background-attachment: fixed;
   background-size: cover;
 background-position: center;
+color: white;
+font-size: 60px;
+font-weight: 500;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+flex-wrap: wrap;
 }
 .section-4{
   height: 100vh;
@@ -86,7 +92,7 @@ padding-left: 100px;
    font-size: 45px;
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
- .WATCHREPLAY{
+ .button{
    margin-top: 15px;
    padding:20px 23px;
    background-color: transparent;
@@ -102,3 +108,21 @@ padding-left: 100px;
 }
 
 
+.section-2 {
+  color: white;
+  font-size: 60px;
+  font-weight: 500;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.mainwords{
+ padding: 350px 300px;
+ padding-bottom: 200px;
+}
+.crewdragon{
+  padding: 350px 300px;
+}
+.floatright{
+  float: right;
+ 
+}
