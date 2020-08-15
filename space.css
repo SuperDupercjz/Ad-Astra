@@ -94,7 +94,7 @@ padding-left: 100px;
  }
  .button{
    margin-top: 15px;
-   padding:20px 23px;
+   padding:20px 30px;
    background-color: transparent;
    color: white;
    font-weight: 400 !important;
@@ -120,9 +120,30 @@ padding-left: 100px;
  padding-bottom: 200px;
 }
 .crewdragon{
-  padding: 350px 300px;
+  padding: 250px 300px;
 }
 .floatright{
   float: right;
+  padding-bottom: 300px;
+  
  
+}
+.littletxt{
+  font-size: 17px;
+  padding-top: 7px;
+}
+.paddinglilnbig{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.buttontry{
+  margin-top: 15px;
+  padding:20px 55px;
+  background-color: transparent;
+  color: white;
+  font-weight: 400 !important;
+  border: 2px solid white}
+#marstitle{
+ margin-left: 140px;
+font-size: 80px;
 }
